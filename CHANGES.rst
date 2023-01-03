@@ -3,6 +3,12 @@ Recent Changes
 
 For earlier changes, see the `HISTORY.rst <HISTORY.rst>`_.
 
+4.0.0a1 (unreleased)
+--------------------
+
+- Nothing changed yet.
+
+
 4.0.0a0.dev0 (2023-01-03)
 -------------------------
 
