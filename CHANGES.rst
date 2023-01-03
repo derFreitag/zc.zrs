@@ -3,8 +3,8 @@ Recent Changes
 
 For earlier changes, see the `HISTORY.rst <HISTORY.rst>`_.
 
-4.0.0 (unreleased)
-------------------
+4.0.0a0.dev0 (2023-01-03)
+-------------------------
 
 - Add support for Python 3.8 and 3.9.
 
